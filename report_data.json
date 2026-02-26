@@ -1,0 +1,1116 @@
+{
+  "metadata": {
+    "tema": "Taxa de Coleta de Lixo — Cabo Frio",
+    "data_atualizacao": "2026-02-26",
+    "periodo_coleta": "2026-02-23 a 2026-02-26",
+    "fontes": [
+      "Instagram",
+      "Facebook"
+    ],
+    "total_comentarios_analisados": 104,
+    "instagram": {
+      "post_id": "DVGl4XcETcG",
+      "post_url": "https://www.instagram.com/p/DVGl4XcETcG/",
+      "total_comentarios_unicos": 60,
+      "total_likes": 1793
+    },
+    "facebook": {
+      "total_posts_analisados": "múltiplos",
+      "total_comentarios_unicos": 44,
+      "periodo": "Últimas 23h até o momento da coleta"
+    }
+  },
+  "sentimento_consolidado": {
+    "total_analisados": 104,
+    "negativo": {
+      "count": 71,
+      "percentual": 68.3
+    },
+    "neutro": {
+      "count": 23,
+      "percentual": 22.1
+    },
+    "positivo": {
+      "count": 10,
+      "percentual": 9.6
+    },
+    "por_plataforma": {
+      "instagram": {
+        "negativo": 71.7,
+        "neutro": 18.3,
+        "positivo": 10.0
+      },
+      "facebook": {
+        "negativo": 63.6,
+        "neutro": 27.3,
+        "positivo": 9.1
+      }
+    }
+  },
+  "engajamento_instagram": {
+    "total_likes_somados": 1793,
+    "comentario_mais_curtido": {
+      "username": "saul.investfx",
+      "likes": 247,
+      "texto_resumo": "PL VIROU PT? Sem asfalto, sem água há 1 semana, e ainda cobram mais imposto"
+    },
+    "comentario_mais_respondido": {
+      "username": "saul.investfx",
+      "replies": 72,
+      "likes": 247
+    },
+    "top_comentarios_por_likes": [
+      {
+        "username": "saul.investfx",
+        "likes": 247,
+        "replies": 72,
+        "sentimento": "negativo",
+        "texto_resumo": "PL VIROU PT? Sem asfalto, sem água há 1 semana, e mais imposto"
+      },
+      {
+        "username": "gilsonrobini",
+        "likes": 238,
+        "replies": 14,
+        "sentimento": "negativo",
+        "texto_resumo": "IPVA+pedágio, IPTU+ilum+incêndio+taxa lixo: acúmulo histórico de tributos"
+      },
+      {
+        "username": "pepeuguia",
+        "likes": 184,
+        "replies": 11,
+        "sentimento": "negativo",
+        "texto_resumo": "Já tem muito imposto, é só gerir bem; Bolsa Família não é só pobre"
+      },
+      {
+        "username": "janaisafaria",
+        "likes": 145,
+        "replies": 39,
+        "sentimento": "negativo",
+        "texto_resumo": "Nunca existiu essa taxa aqui; cadê a água? PROLAGOS prejudica os bairros"
+      },
+      {
+        "username": "marlonbarbosa",
+        "likes": 115,
+        "replies": 7,
+        "sentimento": "negativo",
+        "texto_resumo": "CadÚnico exige renda per capita de até MEIO salário mínimo; critério muito restritivo"
+      },
+      {
+        "username": "iamfilipexavier",
+        "likes": 98,
+        "replies": 6,
+        "sentimento": "neutro",
+        "texto_resumo": "Marco Legal do Saneamento obriga municípios a sustentar serviços de resíduos"
+      },
+      {
+        "username": "caminho.terapeutico",
+        "likes": 95,
+        "replies": 16,
+        "sentimento": "negativo",
+        "texto_resumo": "Por que valor tão alto em condomínio se o caminhão não entra?"
+      },
+      {
+        "username": "adrianapestanacf",
+        "likes": 93,
+        "replies": 7,
+        "sentimento": "negativo",
+        "texto_resumo": "Condomínio de 40 aptos: cada um paga ~R$500. COVARDIA!"
+      },
+      {
+        "username": "lucasndfaria",
+        "likes": 74,
+        "replies": 7,
+        "sentimento": "negativo",
+        "texto_resumo": "IPTU subiu 45%; condomínio com 8 casas, só 3 habitadas: critérios opacos da COMSERCAF"
+      },
+      {
+        "username": "lealclodoaldorezende",
+        "likes": 68,
+        "replies": 9,
+        "sentimento": "negativo",
+        "texto_resumo": "Em Tamoios vamos fazer campanha 'Serginho Fora'"
+      }
+    ]
+  },
+  "temas_instagram": {
+    "taxa_lixo_valor_absurdo": {
+      "count": 28,
+      "descricao": "Reclamação sobre valor da taxa considerado desproporcional ou injusto",
+      "exemplos_chave": [
+        "R$590 para condomínio com só 3 moradores",
+        "Taxa maior que o IPTU",
+        "R$470 de taxa e a rua está no mato",
+        "R$500 por apto em condomínio de 40"
+      ]
+    },
+    "acumulo_de_tributos": {
+      "count": 18,
+      "descricao": "Denúncia de sobreposição de taxas: IPTU + iluminação + incêndio + lixo + esgoto",
+      "exemplos_chave": [
+        "IPTU criado para custeio de limpeza, por que nova taxa?",
+        "Taxa de esgoto, ilum pública, e agora lixo",
+        "Taxa de bombeiros, IPVA, pedágio, iluminação, lixo"
+      ]
+    },
+    "criterio_isenção_restritivo": {
+      "count": 8,
+      "descricao": "Crítica ao critério do CadÚnico (renda per capita até 0,5 SM) como insuficiente para proteger a classe média-baixa",
+      "exemplos_chave": [
+        "Quem ganha 1 salário mínimo não está no CadÚnico mas não tem como pagar",
+        "Não é só pobre quem tem Bolsa Família"
+      ]
+    },
+    "falta_transparencia_comsercaf": {
+      "count": 7,
+      "descricao": "Pedido de clareza sobre os parâmetros usados para calcular o valor da taxa",
+      "exemplos_chave": [
+        "Não existe em lugar nenhum os dados da COMSERCAF",
+        "Para onde vai esse dinheiro?",
+        "Aprovado na calada da noite"
+      ]
+    },
+    "proposta_reciclagem_sustentavel": {
+      "count": 6,
+      "descricao": "Sugestão de coleta seletiva, reciclagem e PPP como alternativa à taxa",
+      "exemplos_chave": [
+        "Lixo reciclável paga suas próprias despesas e gera emprego",
+        "Invista em lixo sustentável",
+        "Por que não PPP?"
+      ]
+    },
+    "condomínio_sem_coleta_direta": {
+      "count": 6,
+      "descricao": "Questionamento de cobrar taxa de condomínio onde o caminhão não coleta porta a porta",
+      "exemplos_chave": [
+        "Caminhão não entra no condomínio",
+        "Condomínio dos Pássaros tem coleta própria"
+      ]
+    },
+    "setor_comercial_desproporção": {
+      "count": 5,
+      "descricao": "Comerciantes reclamando que escritório de 20m² paga mais que residência de 200m²",
+      "exemplos_chave": [
+        "Escritório sem cozinha paga mais que casa grande",
+        "Loja com IPTU R$400 tem taxa lixo de R$750"
+      ]
+    },
+    "qualidade_do_servico_deficiente": {
+      "count": 5,
+      "descricao": "Lixo exposto por semanas, ruas sem coleta regular, questionando contrapartida da taxa",
+      "exemplos_chave": [
+        "Lixo exposto por semanas nas ruas",
+        "A rua onde moro está como asfaltada mas não é; e agora taxa de lixo?"
+      ]
+    },
+    "mobilizacao_manifestacao": {
+      "count": 2,
+      "descricao": "Convocação para manifestação presencial",
+      "exemplos_chave": [
+        "Manifestação dia 27/02 às 9h em frente ao Unapark",
+        "Em Tamoios: campanha 'Serginho Fora'"
+      ]
+    },
+    "defesa_do_prefeito": {
+      "count": 4,
+      "descricao": "Comentários de apoio ao prefeito, relativizando a taxa ou defendendo a necessidade",
+      "exemplos_chave": [
+        "Melhor prefeito do Brasil é de Cabo Frio",
+        "O problema é a forma como foi implementado, não a existência da taxa",
+        "Marco Legal obriga municípios a cobrar"
+      ]
+    },
+    "ironia_politica": {
+      "count": 3,
+      "descricao": "Uso de ironia e humor político, incluindo comparação PL com PT",
+      "exemplos_chave": [
+        "PL VIROU PT?",
+        "Ele disse que a vida ia melhorar. Só não disse pra quem",
+        "Com o lucro das taxas, Cabo Frio vai virar Dubai"
+      ]
+    }
+  },
+  "temas_facebook": {
+    "abandono_bairros_infraestrutura": {
+      "count": 12,
+      "percentual_sobre_total": 27.3,
+      "descricao": "Argumento de que bairros periféricos não têm sequer serviços básicos (asfalto, água, coleta regular) — logo, pagar taxa é injusto",
+      "bairros_citados": [
+        "Monte Alegre",
+        "Tamoios",
+        "Guriri",
+        "Portinho",
+        "Jardim Esperança",
+        "centro (como contraponto privilegiado)"
+      ],
+      "exemplos": [
+        "Maria Merces: Rua Araújo sem asfalto, só lama; paga caminhão de aterro R$260",
+        "Waldir Rodrigues: Tamoios com lixo se acumulando nas portas",
+        "Rijanou Felber: Segundo distrito muito pior que o centro"
+      ]
+    },
+    "falha_coleta_consercaf": {
+      "count": 11,
+      "percentual_sobre_total": 25.0,
+      "descricao": "Denúncia de irregularidades na coleta: dias sem caminhão, sem coleta de entulho, coletores que não recolhem tudo",
+      "exemplos": [
+        "Mônica Lacerda: Coletores da CONSERCAF não levam o lixo todo",
+        "Rijanou Felber: Coletas irregulares, sem entulho, sem caçamba",
+        "Nando Costa: Não tem onde descartar além de lixo domiciliar",
+        "Rosirene dos Santos: Na minha rua tem uma piscina há meses e ninguém faz nada"
+      ]
+    },
+    "critica_midia_rc_metropoles": {
+      "count": 9,
+      "percentual_sobre_total": 20.5,
+      "descricao": "Acusação de que a mídia local (RC TV, Metrópoles) age como 'batalhão de choque' do prefeito para justificar a taxa",
+      "veiculos_citados": [
+        "RC TV",
+        "Metrópoles",
+        "Balanço Geral"
+      ],
+      "exemplos": [
+        "Marcos Montenegro: 'Jornalista paga por Serginho, reportagem tendenciosa'",
+        "Kaká Lessa: 'RC virou defensora dos políticos, por que será?'",
+        "Waldir Rodrigues: 'Já virou notícia no Metrópoles e no Balanço Geral'",
+        "André de Lucena (spam/completo): 'Reportagem tendenciosa nas entrelinhas tentando repassar responsabilidade da prefeitura ao cidadão'"
+      ]
+    },
+    "taxa_lixo_rejeicao_valor": {
+      "count": 9,
+      "percentual_sobre_total": 20.5,
+      "descricao": "Rejeição direta ao valor da taxa, qualificado como absurdo, abusivo, imoral, roubo",
+      "exemplos": [
+        "Marcia Marques: 'Acho roubo e não vou pagar'",
+        "Fatima Lessa: 'Absurdo não vou pagar muito caro!'",
+        "Tania Mara Capitanio: 'Um absurdo taxa de lixo vinculada ao IPTU'",
+        "Angélica Pinheiro: 'Taxa abusiva'",
+        "Ruan Nogueira: 'IPTU já paguei, não vou pagar esta taxa absurda'"
+      ]
+    },
+    "iptu_sobreposicao_tributos": {
+      "count": 6,
+      "percentual_sobre_total": 13.6,
+      "descricao": "Argumento de que o IPTU e os royalties já deveriam cobrir a coleta de lixo",
+      "exemplos": [
+        "Wanderson Diniz: 'IPTU já é pago para reparos do município assim como os royalties'",
+        "Marcus Vinicius: 'Nunca teve essa taxa e o lixo sempre foi retirado'",
+        "Celi Vasconcelos: 'Já colocaram junto ao IPTU, não tem como não pagar'",
+        "Natiele Silva: 'Já basta o IPTU caríssimo, isso é covardia'"
+      ]
+    },
+    "educacao_ambiental_debate": {
+      "count": 4,
+      "percentual_sobre_total": 9.1,
+      "descricao": "Debate sobre responsabilidade do cidadão vs. responsabilidade da prefeitura no descarte irregular",
+      "exemplos": [
+        "André de Lucena: Programa não foi bem implantado, responsabilidade é da prefeitura",
+        "Nando Costa: Prefeitura não disponibiliza descarte para móveis e entulhos",
+        "Simone Revelles: Povo não ajuda, joga lixo fora de hora",
+        "Marina Silva: Educação ambiental sim, mas taxa não pode ser alta"
+      ]
+    },
+    "royalties_petroleo": {
+      "count": 2,
+      "percentual_sobre_total": 4.5,
+      "descricao": "Argumento de que 80% dos royalties do petróleo vão para Cabo Frio — volume suficiente para cobrir coleta sem taxa adicional",
+      "exemplos": [
+        "Waldir Rodrigues: '80% dos royalties do petróleo vêm para Cabo Frio por causa deles'",
+        "Wanderson Diniz: 'Os royalties são repassados para o município'"
+      ]
+    },
+    "isencao_cadunico_fragilidade": {
+      "count": 1,
+      "percentual_sobre_total": 2.3,
+      "descricao": "Alerta de que a isenção pelo CadÚnico gerará fraude em massa: pessoas sem cadastro entrarão para se isentar",
+      "exemplos": [
+        "Rô Santos: 'Vai ter muita gente entrando no CadÚnico, até quem não tem!'"
+      ]
+    },
+    "saude_publica_desvio_pauta": {
+      "count": 2,
+      "percentual_sobre_total": 4.5,
+      "descricao": "Comentários usando o post da taxa para demandar saúde pública — farmácia de hospital fechada nos fins de semana",
+      "exemplos": [
+        "Denise Almeida: 'Abre a farmácia do hospital do Jardim Esperança para pegar remédios e insulina no sábado e domingo'"
+      ]
+    },
+    "mobilizacao_politica": {
+      "count": 1,
+      "percentual_sobre_total": 2.3,
+      "descricao": "Referência indireta a mobilizações e repercussão midiática como forma de pressão",
+      "exemplos": [
+        "Waldir Rodrigues: 'Já virou notícia no Metrópoles e no Balanço Geral'"
+      ]
+    }
+  },
+  "demandas_explicitas_instagram": [
+    {
+      "tipo": "revisao_valor_taxa",
+      "descricao": "Revisão/redução do valor da taxa de lixo para patamares proporcionais ao uso real",
+      "intensidade": "muito_alta",
+      "recorrencia": 28
+    },
+    {
+      "tipo": "transparencia_calculo",
+      "descricao": "Publicação dos parâmetros e dados da COMSERCAF usados para calcular os valores",
+      "intensidade": "alta",
+      "recorrencia": 7
+    },
+    {
+      "tipo": "ampliacao_criterio_isencao",
+      "descricao": "Ampliar isenção para além do CadÚnico; incluir classe média-baixa (até 2 SM)",
+      "intensidade": "alta",
+      "recorrencia": 8
+    },
+    {
+      "tipo": "revisao_condominio",
+      "descricao": "Rever cobrança de condomínios que já têm coleta própria ou onde o serviço público não chega",
+      "intensidade": "media",
+      "recorrencia": 6
+    },
+    {
+      "tipo": "coleta_seletiva",
+      "descricao": "Implementar coleta seletiva e programa de reciclagem como alternativa fiscal",
+      "intensidade": "media",
+      "recorrencia": 6
+    },
+    {
+      "tipo": "revisao_setor_comercial",
+      "descricao": "Recalibrar taxa para estabelecimentos comerciais pequenos/médios que geram pouco resíduo",
+      "intensidade": "media",
+      "recorrencia": 5
+    },
+    {
+      "tipo": "melhora_frequencia_coleta",
+      "descricao": "Antes de cobrar, garantir coleta regular e confiável nas ruas",
+      "intensidade": "media",
+      "recorrencia": 5
+    },
+    {
+      "tipo": "parcelamento_facilitado",
+      "descricao": "Parcelamento da taxa sem necessidade de ir presencialmente à Secretaria de Fazenda",
+      "intensidade": "baixa",
+      "recorrencia": 1
+    }
+  ],
+  "demandas_explicitas_facebook": [
+    {
+      "tipo": "nao_cobrar_taxa_sem_servico",
+      "descricao": "Moradores de bairros sem coleta regular exigem que a prefeitura não cobre taxa onde não presta serviço",
+      "intensidade": "muito_alta",
+      "recorrencia": 8,
+      "representante": "Maria Merces (Monte Alegre, Rua Araújo): paga caminhão de aterro R$260 próprio"
+    },
+    {
+      "tipo": "revisao_valor_taxa",
+      "descricao": "Revisão do valor para patamar proporcional e justo — não eliminação da taxa",
+      "intensidade": "muito_alta",
+      "recorrencia": 9,
+      "representante": "Joao Carlos: 'O povo não reclama da taxa, reclama do VALOR absurdo'"
+    },
+    {
+      "tipo": "regularizacao_coleta_consercaf",
+      "descricao": "Coleta regular, com dias fixos, cobrindo entulho, móveis e lixo hospitalar; caçamba disponível",
+      "intensidade": "alta",
+      "recorrencia": 11,
+      "representante": "Rijanou Felber e Mônica Lacerda"
+    },
+    {
+      "tipo": "fiscalizacao_descarte_irregular",
+      "descricao": "Multar quem joga lixo em lugar errado — em vez de cobrar de todos",
+      "intensidade": "media",
+      "recorrencia": 4,
+      "representante": "Marcia Marques: 'Deveria multar quem joga, não punir a todos'"
+    },
+    {
+      "tipo": "coleta_seletiva_e_cooperativa",
+      "descricao": "Criação de cooperativa de reciclagem, geração de empregos, coleta seletiva como solução sustentável",
+      "intensidade": "media",
+      "recorrencia": 1,
+      "representante": "Jorge Ramos"
+    },
+    {
+      "tipo": "uso_dos_royalties",
+      "descricao": "Utilizar royalties do petróleo para financiar coleta, dispensando nova taxa",
+      "intensidade": "media",
+      "recorrencia": 2,
+      "representante": "Waldir Rodrigues"
+    },
+    {
+      "tipo": "farmacia_hospital_fim_de_semana",
+      "descricao": "Abertura da farmácia do Hospital do Jardim Esperança aos sábados e domingos (pauta tangencial surgida no fio)",
+      "intensidade": "baixa",
+      "recorrencia": 1,
+      "representante": "Denise Almeida"
+    }
+  ],
+  "alertas_e_riscos_instagram": [
+    {
+      "nivel": "ALTO",
+      "tipo": "mobilizacao_presencial",
+      "descricao": "Convocação de manifestação pública para 27/02/2026 às 9h em frente ao Shopping Unapark (Tamoios) contra a taxa do lixo e outras pautas",
+      "username": "crispimemarilza2022",
+      "acao_recomendada": "Monitorar; possível desdobramento em cobertura midiática local"
+    },
+    {
+      "nivel": "ALTO",
+      "tipo": "campanha_oposicao_local",
+      "descricao": "'Em Tamoios vamos fazer campanha Serginho Fora' — ativação política direta em bairro populoso",
+      "username": "lealclodoaldorezende",
+      "likes": 68,
+      "acao_recomendada": "Acompanhar engajamento; risco de amplificação nos próximos dias"
+    },
+    {
+      "nivel": "MEDIO",
+      "tipo": "narrativa_traicao_ideologica",
+      "descricao": "'PL virou PT?' — ressignificação tributária com linguagem bolsonarista. Comentário mais curtido da postagem com 247 likes e 72 respostas.",
+      "username": "saul.investfx",
+      "acao_recomendada": "Narrativa pode vazar para fora do Instagram. Resposta institucional técnica recomendada."
+    },
+    {
+      "nivel": "MEDIO",
+      "tipo": "argumento_tecnico_sem_resposta",
+      "descricao": "Múltiplos comentários técnicos (CadÚnico, COMSERCAF, Marco Legal) sem resposta da gestão. Ausência de resposta amplia percepção de opacidade.",
+      "acao_recomendada": "Publicar nota técnica sobre metodologia de cálculo e critérios de isenção"
+    },
+    {
+      "nivel": "BAIXO",
+      "tipo": "recusa_servico",
+      "descricao": "Comentários irônicos sobre queimar o próprio lixo; 52 likes. Sinaliza esgotamento da relação com o serviço público.",
+      "username": "simas_piloto"
+    }
+  ],
+  "alertas_e_riscos_facebook": [
+    {
+      "nivel": "ALTO",
+      "tipo": "narrativa_midia_comprada",
+      "descricao": "Múltiplos comentários constroem a narrativa de que a mídia local (RC TV, Metrópoles) atua como 'batalhão de choque' do prefeito para justificar a taxa. Narrativa autorreforçante: cada nova reportagem que tente explicar a taxa reforça essa percepção.",
+      "usuarios_principais": [
+        "Marcos Montenegro",
+        "Kaká Lessa",
+        "Rennan Da Veiga Dias",
+        "Waldir Rodrigues",
+        "André de Lucena"
+      ],
+      "acao_recomendada": "Evitar reportagens defensivas. Prefeitura deve publicar dados brutos/transparentes diretamente, sem intermediação midiática."
+    },
+    {
+      "nivel": "ALTO",
+      "tipo": "caso_emblematico_rua_araujo",
+      "descricao": "Maria Merces (Monte Alegre, Rua Araújo) é um caso-símbolo: endereço nomeado, situação documentada (paga R$260 de caminhão de aterro), e voz popular autêntica. Se viralizar em vídeo ou post, tem alto potencial de constrangimento público.",
+      "acao_recomendada": "Verificar situação da Rua Araújo no Monte Alegre; eventual visita ou resposta oficial reduz risco."
+    },
+    {
+      "nivel": "MEDIO",
+      "tipo": "argumento_royalties",
+      "descricao": "A tese de que 80% dos royalties do petróleo vão para Cabo Frio cria contradição narrativa forte: a cidade mais rica em royalties do estado cobrando taxa de lixo é percebida como incoerência.",
+      "usuarios_principais": [
+        "Waldir Rodrigues",
+        "Wanderson Diniz"
+      ],
+      "acao_recomendada": "Comunicação da Prefeitura deve explicar por que os royalties não cobrem o serviço (vinculação orçamentária, dívida anterior, etc.)"
+    },
+    {
+      "nivel": "MEDIO",
+      "tipo": "fraude_cadunico",
+      "descricao": "Alerta de que a isenção via CadÚnico gerará inscrições fraudulentas em massa — risco fiscal e operacional real.",
+      "usuario": "Rô Santos",
+      "acao_recomendada": "Estabelecer mecanismo de verificação cruzada e prazo claro para inscrição"
+    },
+    {
+      "nivel": "MEDIO",
+      "tipo": "repercussao_midia_regional",
+      "descricao": "Comentarista cita que a taxa já virou notícia no Metrópoles e no Balanço Geral — veículos de maior audiência regional. Risco de amplificação além da bolha do Instagram/Facebook do prefeito.",
+      "usuario": "Waldir Rodrigues",
+      "acao_recomendada": "Monitorar cobertura do Balanço Geral (TV Aberta) especialmente."
+    },
+    {
+      "nivel": "BAIXO",
+      "tipo": "demanda_saude_tangencial",
+      "descricao": "Moradora usa post da taxa do lixo para demandar abertura de farmácia hospitalar no fim de semana — evidência de que qualquer postagem do prefeito vira veículo de demandas represadas de saúde.",
+      "usuario": "Denise Almeida",
+      "local": "Hospital Jardim Esperança"
+    }
+  ],
+  "narrativas_dominantes_instagram": [
+    {
+      "narrativa": "Acúmulo tributário injusto",
+      "descricao": "IPTU já deveria cobrir o lixo. Cada ano surge uma nova taxa separada enquanto os serviços continuam ruins.",
+      "dominancia": "muito_alta"
+    },
+    {
+      "narrativa": "Critério de isenção perverso",
+      "descricao": "Só os extremamente pobres (CadÚnico até 0,5 SM) são isentos. A classe trabalhadora paga, mas não pode.",
+      "dominancia": "alta"
+    },
+    {
+      "narrativa": "Abandono dos bairros periféricos",
+      "descricao": "Tamoios, Botafogo, Maria Joaquina sem asfalto, água, luz — e ainda cobram taxa de serviço que não recebem.",
+      "dominancia": "alta"
+    },
+    {
+      "narrativa": "Condomínios e pequenos comerciantes prejudicados",
+      "descricao": "Quem não recebe coleta porta a porta e quem gera pouco lixo paga o mesmo ou mais que residências comuns.",
+      "dominancia": "media"
+    },
+    {
+      "narrativa": "Traição ideológica (PL = PT)",
+      "descricao": "Eleitorado de direita/centro-direita mobilizado com argumento de que criar taxas é agenda da esquerda.",
+      "dominancia": "media"
+    }
+  ],
+  "narrativas_dominantes_facebook": [
+    {
+      "narrativa": "Taxa onde não há serviço = injustiça",
+      "descricao": "Bairros periféricos sem coleta regular, sem asfalto, sem infraestrutura básica, sendo cobrados por taxa de lixo — argumento com alta legitimidade emocional e factual.",
+      "dominancia": "muito_alta",
+      "representante_canonico": "Maria Merces (Rua Araújo, Monte Alegre)"
+    },
+    {
+      "narrativa": "IPTU + royalties já deveriam pagar",
+      "descricao": "A cidade mais rica em royalties do estado não deveria precisar criar nova taxa — argumento técnico-fiscal com forte apelo popular.",
+      "dominancia": "alta",
+      "representante_canonico": "Waldir Rodrigues e Wanderson Diniz"
+    },
+    {
+      "narrativa": "Mídia local a serviço do prefeito",
+      "descricao": "Qualquer cobertura que tente contextualizar a taxa é lida como 'reportagem paga' — narrativa de desconfiança institucional total.",
+      "dominancia": "alta",
+      "representante_canonico": "Marcos Montenegro"
+    },
+    {
+      "narrativa": "O debate é sobre o VALOR, não a existência da taxa",
+      "descricao": "Minoria moderada reconhece a necessidade da taxa mas exige revisão do valor e proporcionalidade.",
+      "dominancia": "media",
+      "representante_canonico": "Joao Carlos: 'o povo reclama do valor absurdo'"
+    },
+    {
+      "narrativa": "Alternativa: reciclagem e cooperativa",
+      "descricao": "Proposta de solução estrutural sustentável em vez de tributação — voz isolada mas tecnicamente embasada.",
+      "dominancia": "baixa",
+      "representante_canonico": "Jorge Ramos"
+    }
+  ],
+  "comparativo_plataformas": {
+    "nota": "Análise comparativa com o post anterior do Instagram (DVGl4XcETcG) sobre a mesma taxa",
+    "instagram": {
+      "total_unicos": 60,
+      "sentimento_negativo_pct": 71.7,
+      "argumento_dominante": "Valor desproporcional (condomínios, CadÚnico restritivo, COMSERCAF sem transparência)",
+      "tom": "Técnico-fiscal com picos de ironia política"
+    },
+    "facebook": {
+      "total_unicos": 44,
+      "sentimento_negativo_pct": 63.6,
+      "argumento_dominante": "Serviço ausente em bairros periféricos + desconfiança da mídia local",
+      "tom": "Popular-territorial com narrativa de abandono e cumplicidade midiática"
+    },
+    "diferencas_chave": [
+      "Facebook traz endereços reais (Rua Araújo/Monte Alegre) ausentes no Instagram",
+      "Facebook tem forte narrativa anti-mídia local (RC TV, Metrópoles) ausente no Instagram",
+      "Instagram tem argumentos mais técnicos (COMSERCAF, Marco Legal, CadÚnico); Facebook usa linguagem mais oral e popular",
+      "Alcunhas pejorativas ('Prefeito Tik Tok', 'Prefeito Pinóquio') aparecem só no Facebook",
+      "Royalties do petróleo como argumento só no Facebook"
+    ]
+  },
+  "enderecos_bairros": [
+    {
+      "local": "Rua Manoel Francisco Valentim",
+      "bairro_provavel": "Passagem",
+      "mencao": "Lixo exposto por semanas; IPTU de R$7.000",
+      "username": "paulamottap"
+    },
+    {
+      "local": "Rua Edilson Duarte",
+      "bairro": "Jardim Caiçara",
+      "mencao": "Bueiros transbordando há meses, mosquitos, risco à saúde",
+      "username": "nanda.villar"
+    },
+    {
+      "local": "Condomínio dos Pássaros",
+      "bairro_provavel": "Tamoios/Unamar",
+      "mencao": "Tem coleta própria, mas COMSERCAF ainda cobra taxa",
+      "username": "lediopires"
+    },
+    {
+      "local": "Jardim Esperança",
+      "bairro": "Jardim Esperança",
+      "mencao": "Taxa de lixo mais cara que IPTU",
+      "username": "lucasndfaria"
+    },
+    {
+      "local": "Passagem",
+      "bairro": "Passagem",
+      "mencao": "IPTU de R$7.000+; taxa de lixo absurda",
+      "username": "paulamottap"
+    },
+    {
+      "local": "Tamoios (geral)",
+      "bairro": "Tamoios",
+      "mencao": "Sem água, sem luz, sem coleta confiável; convocação de manifestação em frente ao Unapark",
+      "usernames": [
+        "niquecruz",
+        "crispimemarilza2022",
+        "lealclodoaldorezende"
+      ]
+    },
+    {
+      "local": "Maria Joaquina",
+      "bairro": "Maria Joaquina",
+      "mencao": "Bairro citado como exemplo de abandono junto à taxa",
+      "username": "niquecruz"
+    },
+    {
+      "local": "Botafogo",
+      "bairro": "Botafogo",
+      "mencao": "Largado; citado ao lado de Maria Joaquina como bairro esquecido",
+      "username": "niquecruz"
+    },
+    {
+      "local": "Rua próxima à praia do Forte",
+      "bairro": "Forte/Centro",
+      "mencao": "Sem lixeiras nas ruas públicas; sem coleta seletiva",
+      "username": "andrea.doval"
+    },
+    {
+      "local": "Palmeiras / Jardim Caiçara",
+      "bairro": "Jardim Caiçara",
+      "mencao": "Ruas tomadas de mato",
+      "username": "neylsenbraga"
+    },
+    {
+      "local": "Av. Sideral / Verão Vermelho (paralela aos condomínios)",
+      "bairro": "Unamar",
+      "mencao": "Citada em post anterior; padrão de abandono reforçado pelos comentários desta postagem"
+    },
+    {
+      "local": "Unapark (Shopping)",
+      "bairro": "Tamoios",
+      "mencao": "Local da manifestação convocada para 27/02/2026 às 9h",
+      "username": "crispimemarilza2022"
+    }
+  ],
+  "top_usuarios_instagram": [
+    {
+      "username": "saul.investfx",
+      "likes": 247,
+      "replies": 72,
+      "perfil": "Investidor; perfil crítico ao espectro político de esquerda",
+      "texto_chave": "PL VIROU PT? sem asfalto, sem água há 1 semana, e ainda cobram mais imposto. Criar novos impostos é coisa de ESQUERDA.",
+      "relevancia": "Comentário mais engajado de toda a postagem. Ressignificação ideológica: usa retórica bolsonarista/liberal para atacar a taxa, criando narrativa de traição ideológica"
+    },
+    {
+      "username": "gilsonrobini",
+      "likes": 238,
+      "replies": 14,
+      "perfil": "Conta privada",
+      "texto_chave": "IPVA+pedágio, IPTU+iluminação+incêndio+taxa lixo: o tributo que substitui o serviço foi duplicado pelo imposto que ficou",
+      "relevancia": "Segundo comentário mais curtido; argumentação histórica e técnica sobre acúmulo tributário"
+    },
+    {
+      "username": "pepeuguia",
+      "likes": 184,
+      "replies": 11,
+      "texto_chave": "Já tem muito imposto. É só gerir bem. Um assalariado que não ganha benefício também é pobre!",
+      "relevancia": "Terceiro mais curtido; questiona o conceito restritivo de 'pobre' na isenção"
+    },
+    {
+      "username": "janaisafaria",
+      "likes": 145,
+      "replies": 39,
+      "texto_chave": "Cadê a água? PROLAGOS prende para os bairros para favorecer o centro. Prioridade é o morador, não o turista.",
+      "relevancia": "Conecta crise da água com taxa do lixo; narrativa de abandono dos bairros em favor do centro turístico"
+    },
+    {
+      "username": "marlonbarbosa",
+      "likes": 115,
+      "replies": 7,
+      "texto_chave": "CadÚnico exige renda per capita de até MEIO salário mínimo. O trabalhador que ganha 1 SM não se qualifica mas também não pode pagar R$500.",
+      "relevancia": "Argumento técnico mais preciso sobre falha do critério de isenção; alta ressonância"
+    },
+    {
+      "username": "lealclodoaldorezende",
+      "likes": 68,
+      "replies": 9,
+      "texto_chave": "Em tamoios vamos fazer campanha Serginho fora",
+      "relevancia": "Único comentário com chamada explícita para campanha política de oposição. Alto risco de viralização local."
+    },
+    {
+      "username": "simas_piloto",
+      "likes": 52,
+      "replies": 11,
+      "texto_chave": "Deixa meu lixo q eu queimo no final do mês",
+      "relevancia": "Ironia viral; sinaliza recusa ao serviço como forma de resistência passiva"
+    }
+  ],
+  "mencoes_especiais_instagram": {
+    "aline_falecida_esposa": {
+      "total": 0,
+      "comentarios": [],
+      "observacao": "Nenhuma menção identificada nesta postagem"
+    },
+    "governador": {
+      "total": 0,
+      "comentarios": [],
+      "observacao": "Nenhuma menção a governador identificada. Uma menção indireta ao governo estadual via PROLAGOS (@janaisafaria)"
+    },
+    "gabriela_azevedo": {
+      "total": 0,
+      "comentarios": [],
+      "observacao": "Nenhuma menção identificada nesta postagem"
+    }
+  },
+  "mencoes_especiais_facebook": {
+    "aline_falecida_esposa": {
+      "total": 0,
+      "comentarios": [],
+      "observacao": "Nenhuma menção identificada neste conjunto de comentários do Facebook"
+    },
+    "governador": {
+      "total": 0,
+      "comentarios": [],
+      "observacao": "Nenhuma menção direta ao governador Cláudio Castro ou ao governo estadual. Waldir Rodrigues menciona 'royalties do petróleo' (competência estadual/federal), mas não nomeia o governador."
+    },
+    "gabriela_azevedo": {
+      "total": 0,
+      "comentarios": [],
+      "observacao": "Nenhuma menção identificada neste conjunto"
+    }
+  },
+  "vocabulario_frequente": {
+    "instagram": [
+      {
+        "termo": "taxa",
+        "frequencia": "muito_alta"
+      },
+      {
+        "termo": "lixo",
+        "frequencia": "muito_alta"
+      },
+      {
+        "termo": "IPTU",
+        "frequencia": "muito_alta"
+      },
+      {
+        "termo": "absurdo",
+        "frequencia": "alta"
+      },
+      {
+        "termo": "pagar",
+        "frequencia": "alta"
+      },
+      {
+        "termo": "imposto",
+        "frequencia": "alta"
+      },
+      {
+        "termo": "valor",
+        "frequencia": "alta"
+      },
+      {
+        "termo": "condomínio",
+        "frequencia": "media"
+      },
+      {
+        "termo": "COMSERCAF",
+        "frequencia": "media"
+      },
+      {
+        "termo": "CadÚnico",
+        "frequencia": "media"
+      },
+      {
+        "termo": "reciclagem",
+        "frequencia": "media"
+      },
+      {
+        "termo": "coleta",
+        "frequencia": "media"
+      },
+      {
+        "termo": "água",
+        "frequencia": "media"
+      },
+      {
+        "termo": "asfalto",
+        "frequencia": "media"
+      },
+      {
+        "termo": "tamoios",
+        "frequencia": "media"
+      },
+      {
+        "termo": "isento",
+        "frequencia": "baixa"
+      },
+      {
+        "termo": "manifestação",
+        "frequencia": "baixa"
+      },
+      {
+        "termo": "PT/PL",
+        "frequencia": "baixa"
+      }
+    ],
+    "facebook": [
+      {
+        "termo": "taxa de lixo",
+        "frequencia": "muito_alta"
+      },
+      {
+        "termo": "IPTU",
+        "frequencia": "alta"
+      },
+      {
+        "termo": "absurdo / abusivo / absurda",
+        "frequencia": "alta"
+      },
+      {
+        "termo": "roubo",
+        "frequencia": "media"
+      },
+      {
+        "termo": "reportagem / tendenciosa",
+        "frequencia": "media"
+      },
+      {
+        "termo": "royalties",
+        "frequencia": "media"
+      },
+      {
+        "termo": "CONSERCAF",
+        "frequencia": "media"
+      },
+      {
+        "termo": "coleta",
+        "frequencia": "media"
+      },
+      {
+        "termo": "asfalto / lama",
+        "frequencia": "media"
+      },
+      {
+        "termo": "CadÚnico",
+        "frequencia": "baixa"
+      },
+      {
+        "termo": "reciclagem / cooperativa",
+        "frequencia": "baixa"
+      },
+      {
+        "termo": "Tamoios / Monte Alegre / Guriri",
+        "frequencia": "baixa"
+      },
+      {
+        "termo": "Prefeito Tik Tok / Pinóquio",
+        "frequencia": "baixa"
+      }
+    ]
+  },
+  "analise_lexicossemantica": {
+    "instagram": {
+      "campo_semantico_tributario": {
+        "descricao": "Vocabulário técnico-fiscal mobilizado pelos comentaristas",
+        "termos": [
+          "IPTU",
+          "IPVA",
+          "CadÚnico",
+          "renda per capita",
+          "tributo",
+          "taxa",
+          "imposto",
+          "isenção",
+          "tesouro municipal",
+          "COMSERCAF",
+          "marco legal do saneamento",
+          "Lei 14.026/2020"
+        ]
+      },
+      "campo_semantico_indignacao": {
+        "descricao": "Palavras de protesto, intensidade emocional alta",
+        "termos": [
+          "absurdo",
+          "covardia",
+          "assalto",
+          "lixo de taxa",
+          "ridículo",
+          "bomba",
+          "mentira",
+          "indignada",
+          "inadmissível",
+          "vergonha",
+          "calada da noite"
+        ]
+      },
+      "campo_semantico_abandono_bairros": {
+        "descricao": "Referência ao abandono do espaço público como argumento contra a taxa",
+        "termos": [
+          "rua sem asfalto",
+          "mato",
+          "sem água",
+          "sem luz",
+          "largado",
+          "abandonado",
+          "proliferação de mosquitos",
+          "apagão",
+          "esgoto"
+        ]
+      },
+      "girias_e_expressoes_informais": [
+        {
+          "expressao": "PL VIROU PT?",
+          "contexto": "Crítica político-ideológica: comparar política de impostos do PL (partido do prefeito) com a tradição tributária associada ao PT",
+          "username": "saul.investfx",
+          "impacto_likes": 247
+        },
+        {
+          "expressao": "Deixa meu lixo q eu queimo no final do mês",
+          "contexto": "Ironia/recusa ao serviço como forma de contestar a taxa",
+          "username": "simas_piloto",
+          "impacto_likes": 52
+        },
+        {
+          "expressao": "Cabo Frio vai virar Dubai",
+          "contexto": "Sarcasmo sobre arrecadação elevada sem contrapartida de serviços",
+          "username": "ribasrafas"
+        },
+        {
+          "expressao": "O caminhão não entra no condomínio recolhendo de casa em casa",
+          "contexto": "Argumento objetivo contra cobrança em condomínios",
+          "username": "caminho.terapeutico",
+          "impacto_likes": 95
+        },
+        {
+          "expressao": "política de circo está de vento em popa",
+          "contexto": "Crítica à governança populista: festas para turistas, tributos para moradores",
+          "username": "mirnamalcantara"
+        },
+        {
+          "expressao": "aprovado na calada da noite",
+          "contexto": "Acusação de falta de transparência/participação popular no processo legislativo",
+          "username": "andrea.doval"
+        }
+      ]
+    },
+    "facebook": {
+      "campo_semantico_tributario": {
+        "descricao": "Léxico fiscal mobilizado na contestação",
+        "termos": [
+          "IPTU",
+          "taxa",
+          "royalties",
+          "tributo",
+          "imposto",
+          "isenção",
+          "CadÚnico",
+          "CONSERCAF",
+          "vinculado ao IPTU"
+        ]
+      },
+      "campo_semantico_indignacao": {
+        "descricao": "Vocabulário de protesto e carga emocional forte",
+        "termos": [
+          "absurdo",
+          "abusivo",
+          "roubo",
+          "covardia",
+          "sacanagem",
+          "imoral",
+          "ridículo",
+          "maluco",
+          "traiu",
+          "tá maluco",
+          "se dane o povo"
+        ]
+      },
+      "campo_semantico_abandono": {
+        "descricao": "Metáforas e imagens de descaso territorial",
+        "termos": [
+          "lama",
+          "barro",
+          "poeira na cara",
+          "piscina de água parada",
+          "lixarada",
+          "mato",
+          "largada",
+          "bagunça",
+          "só imaginem o segundo distrito"
+        ]
+      },
+      "campo_semantico_midia": {
+        "descricao": "Narrativa de cumplicidade entre mídia local e poder executivo",
+        "termos": [
+          "jornalista paga",
+          "reportagem tendenciosa",
+          "batalhão de choque da mídia",
+          "mídia do prefeito",
+          "relativizar a cobrança",
+          "entrelinhas",
+          "RC virou defensora"
+        ]
+      },
+      "girias_e_expressoes_informais": [
+        {
+          "expressao": "Prefeito Tik Tok",
+          "contexto": "Alcunha pejorativa ao prefeito Dr. Serginho, associando sua comunicação via redes sociais com superficialidade e populismo digital",
+          "usuario": "Waldir Rodrigues",
+          "campo_semantico": "crítica política irônica"
+        },
+        {
+          "expressao": "Prefeito Pinóquio",
+          "contexto": "Acusação de mentira e traição de promessas eleitorais",
+          "usuario": "Valmer Cds",
+          "campo_semantico": "crítica política moralizante"
+        },
+        {
+          "expressao": "Batalhão de choque da mídia",
+          "contexto": "Metáfora militar para designar jornalistas que defendem o prefeito; sugere ação coordenada e ideológica",
+          "usuario": "Marcos Montenegro",
+          "campo_semantico": "teoria da conspiração midiática"
+        },
+        {
+          "expressao": "Lixo obra",
+          "contexto": "Ironia composta: o prefeito prometeu 'programa por bairros' que o comentarista qualifica como 'lixo' (mal feito). Jogo de palavras com o tema da postagem.",
+          "usuario": "Adriana Macedo",
+          "campo_semantico": "ironia política de duplo sentido"
+        },
+        {
+          "expressao": "Ilário",
+          "contexto": "Grafia fonética de 'hilário' — ironia pesada sobre a defesa midiática da taxa",
+          "usuario": "Marcos Montenegro",
+          "campo_semantico": "registro informal/fonético"
+        },
+        {
+          "expressao": "Minha filha",
+          "contexto": "Forma de interpelação afetiva popular nordestina/carioca usada para chamar atenção para descrição de cena (Zenilde Florencio, ao falar da lixarada no Tangará)",
+          "usuario": "Zenilde Florencio",
+          "campo_semantico": "linguagem oral popular fluminense"
+        },
+        {
+          "expressao": "Puxa saco de político",
+          "contexto": "Acusação a alguém que defende o prefeito publicamente; clítico popular de bajulação política",
+          "usuario": "Julio Cesar Almeida",
+          "campo_semantico": "gíria política"
+        },
+        {
+          "expressao": "Piscina (na rua)",
+          "contexto": "Metáfora para poça d'água permanente por falta de manutenção — já usada em outros posts da série; consolidada como léxico de abandono",
+          "usuario": "Rosirene Dos Santos Barbosa",
+          "campo_semantico": "metáfora de abandono urbano"
+        },
+        {
+          "expressao": "Caminhão de aterro por 260",
+          "contexto": "Referência à solução particular (carro de entulho contratado pelo morador) que substitui serviço público ausente; valor real citado como prova",
+          "usuario": "Maria Merces",
+          "campo_semantico": "denúncia com dado financeiro concreto"
+        },
+        {
+          "expressao": "Não quer nada com a Hora do Brasil",
+          "contexto": "Expressão arcaica adaptada: significa que os governantes não querem o bem público ('Hora do Brasil' = rádio do governo, símbolo do serviço público)",
+          "usuario": "Jorge Ramos",
+          "campo_semantico": "expressão idiomática política"
+        }
+      ]
+    }
+  }
+}
